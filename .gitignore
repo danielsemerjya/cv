@@ -1,0 +1,6 @@
+# Ignore everything except the CV files
+*
+!.gitignore
+!README.md
+!cv.html
+!cv.pdf
